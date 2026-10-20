@@ -80,3 +80,13 @@ footer {
   color: white;
   padding: 15px;
 }
+
+.project-screenshot {
+  display: block;
+  width: 100%;
+  max-width: 750px;
+  height: auto;
+  margin: 15px 0;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
